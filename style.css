@@ -1,38 +1,8 @@
-* {
-    font-family: Proxima Nova, -apple-system, Roboto, Arial, sans-serif;
+h1{
+    text-align: center;
 }
 
-img{
-   width: 410px;
-   height: 500px;
+div{
+    background-color: ;
 }
 
-.tittulo{
-    background-color: #D92020;
-    color: white;
-}
-
-.h1-div2{
-    flex: auto;
-    font-size: 22px;
-    margin-right: 28px;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-.span-div2{
-    font-size: 14px;
-    margin-right: 8px;
-    position: relative;
-    top: 1px;
-}
-
-.img-estrelas{
-    width: auto;
-   height: auto;
-}
-
-.span-div2-preço{
-    padding-right: .2em;
-    box-sizing: border-box;
-}
